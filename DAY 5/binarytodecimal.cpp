@@ -21,7 +21,7 @@ int main()
 
                                  // input by the user.
      int num ;
-    // cout<<num;
+    cout<<"enter the binary number :";
      cin>>num;
 
 
@@ -36,8 +36,8 @@ int main()
 
 
     }
-    cout<<ans;
-    cout<<endl;
+    //cout<<ans;
+    cout<<"In  decimal :"<<ans<<endl;
    
     return 0;
 

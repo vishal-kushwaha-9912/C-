@@ -2,19 +2,21 @@
 using namespace std;
 int main()
 {
-    //for loop
+   /* //for loop
     //while loop
 
     int num =1;
-   /* while (num<10)
+    while (num<10)
     {
-       cout<<num<<"";
-
+       cout<<"answer is"<<num<<endl;
+  num++;
     }
-*/
+    */
+
 
 //WAP to print the number by using the DO-WHILE LOOP.
-    do{
+   int num =1;
+   do{
         cout<<num<<" ";
         num++;
     }

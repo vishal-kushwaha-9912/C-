@@ -15,13 +15,14 @@ int main()
 
   }*/
   int num ;
+  cout<<"Enter the decimal number:";
   cin>>num;
   while(num!= 0){
     //remainder
     int rem = num%2;
     //divide 
     num = num/2;
-    cout<<num;
+    cout<<rem;
 
   }
   return 0;

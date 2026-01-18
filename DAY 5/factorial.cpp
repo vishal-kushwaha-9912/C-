@@ -14,7 +14,7 @@ int main(){
     {
     fact =fact*i;
    }
-cout<<fact<<endl;
+cout<<"answer is:"<<fact<<endl;
 
 return 0;
 }
